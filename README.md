@@ -6,6 +6,16 @@
   <code style="color:#badaeb; font-size: 42px;">&lt;Kelly Vieira /&gt;</code>
 </h1>
 
+<!-- OPTIONAL GREETING -->
+<p align="center" style="font-size: 22px;">
+  👋🏽 Olá, mundo! Eu sou a <strong>Kelly Vieira</strong>
+</p>
+
+<!-- Se preferir EM INGLÊS, use isso -->
+<!-- <p align="center" style="font-size: 22px;">
+  Hi there 👋🏽 I'm <strong>Kelly Vieira</strong>
+</p> -->
+
 <!-- ÍCONES NO TOPO -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma" height="45"/>
@@ -17,21 +27,13 @@
 <!-- SEÇÃO PROFISSIONAL -->
 <!-- ======================= -->
 
-<h2 align="center"> 👩🏽‍💻 Kelly Vieira</h2>
-<h3 align="center" style="color:#badaeb;">Desenvolvedora Front-end & Criadora de Projetos</h3>
+<h2 align="center"> 👩🏽‍💻 Desenvolvedora Front-end</h2>
+<h3 align="center" style="color:#badaeb;">Criadora de Projetos e Aprendiz em Tecnologia</h3>
 
 ### ✨ Sobre mim
-Me chamo **Kelly Vieira**, sou de São Paulo e estudo **Desenvolvimento Front-end**.  
-Trabalho diariamente com criatividade, impacto social e o desejo de transformar vidas através da tecnologia.  
-Sou apaixonada por educação, design, acessibilidade e projetos que ajudam pessoas.
-
----
-
-## 🤖 Linguagens e Tecnologias
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma" height="45" />
-</p>
+Me chamo **Kelly Vieira**, sou de **São Paulo – SP** e estudo **Desenvolvimento Front-end**.  
+Sou apaixonada por tecnologia, educação e impacto social, com foco em criar soluções acessíveis e funcionais.  
+Acredito que **criatividade + força de vontade transformam vidas — inclusive a minha.**
 
 ---
 
@@ -52,17 +54,11 @@ Sou apaixonada por educação, design, acessibilidade e projetos que ajudam pess
 ---
 
 <!-- ======================= -->
-<!-- SOBRE MIM (SUA VERSÃO ORIGINAL) -->
+<!-- SOBRE MIM PROFISSIONAL -->
 <!-- ======================= -->
 
-### 🌙 Sobre mim
-Sou estudante de Desenvolvimento Front-end e apaixonada por tecnologia, educação e impacto social.  
-Acredito que criatividade + força de vontade transformam vidas inclusive a minha.
-
----
-
 ### 🔭 Atualmente trabalhando em
-**Estudar Desenvolvimento Front-end e criar projetos para aprimorar minhas habilidades.**
+**Estudando Desenvolvimento Front-end e desenvolvendo projetos para aprimorar minhas habilidades técnicas.**
 
 ### 🌱 Atualmente aprendendo
 **HTML, CSS, JavaScript, lógica de programação e boas práticas de desenvolvimento.**
@@ -71,16 +67,16 @@ Acredito que criatividade + força de vontade transformam vidas inclusive a minh
 **Projetos sociais que incentivem jovens a iniciarem na programação e na educação tecnológica.**
 
 ### 🤝 Em busca de apoio
-**Continuação dos meus estudos, desenvolvimento como front-end e entrada no mercado.**
+**Oportunidades para evoluir como desenvolvedora Front-end e ingressar no mercado de tecnologia.**
 
 ### 💬 Pergunte-me sobre
-**Front-end, minha jornada na tecnologia, projetos sociais e como começar com poucos recursos.**
+**Front-end, minha jornada na tecnologia, projetos sociais e primeiros passos na programação.**
 
 ### 📫 Contato
 **kellyvieiradsilva@gmail.com**
 
 ### ⚡ Curiosidade
-Uso tecnologia + criatividade para gerar impacto positivo e ajudar pessoas.
+**Uso tecnologia + criatividade para gerar impacto positivo e ajudar pessoas.**
 
 ---
 
@@ -90,30 +86,22 @@ Uso tecnologia + criatividade para gerar impacto positivo e ajudar pessoas.
 
 ## 🎨 Meus Projetos (pré-visualização)
 
-> *Blocos no tom #badaeb, prontos para você trocar depois.*
+> *Blocos no tom #badaeb — basta substituir pelas imagens reais depois.*
 
-### 📁 Carrossel – Imagens dos Projetos
 <p align="center">
 
-  <!-- PROJETO 1 -->
   <img src="https://via.placeholder.com/900x450/badaeb/000000?text=Projeto+1+-+adicione+sua+imagem"
        width="80%" style="border-radius: 14px; margin-bottom: 18px;" />
 
-  <!-- PROJETO 2 -->
   <img src="https://via.placeholder.com/900x450/badaeb/000000?text=Projeto+2+-+adicione+sua+imagem"
        width="80%" style="border-radius: 14px; margin-bottom: 18px;" />
 
-  <!-- PROJETO 3 -->
   <img src="https://via.placeholder.com/900x450/badaeb/000000?text=Projeto+3+-+adicione+sua+imagem"
        width="80%" style="border-radius: 14px; margin-bottom: 18px;" />
 
 </p>
 
 ---
-
-<!-- ======================= -->
-<!-- GIF DO PROJETO -->
-<!-- ======================= -->
 
 ## 🔄 Prévia em GIF (futuro projeto)
 
@@ -143,6 +131,7 @@ Uso tecnologia + criatividade para gerar impacto positivo e ajudar pessoas.
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
 </a>
 </p>
+
 
 
 
