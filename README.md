@@ -30,7 +30,7 @@ Sou apaixonada por educação, design, acessibilidade e projetos que ajudam pess
 ## 🤖 Linguagens e Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,bootstrap,tailwind,react" height="45" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma" height="45" />
 </p>
 
 ---
