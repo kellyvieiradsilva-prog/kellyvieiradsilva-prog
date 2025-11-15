@@ -11,11 +11,6 @@
   👋🏽 Olá, mundo! Eu sou a <strong>Kelly Vieira</strong>
 </p>
 
-<!-- Se preferir EM INGLÊS, use isso -->
-<!-- <p align="center" style="font-size: 22px;">
-  Hi there 👋🏽 I'm <strong>Kelly Vieira</strong>
-</p> -->
-
 <!-- ÍCONES NO TOPO -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma" height="45"/>
@@ -28,7 +23,7 @@
 <!-- ======================= -->
 
 <h2 align="center"> 👩🏽‍💻 Desenvolvedora Front-end</h2>
-<h3 align="center" style="color:#badaeb;">Criadora de Projetos e Aprendiz em Tecnologia</h3>
+<h3 align="center" style="color:#badaeb;">Criadora de Projetos e Desenvolvedora Front-end em Formação</h3>
 
 ### ✨ Sobre mim
 Me chamo **Kelly Vieira**, sou de **São Paulo – SP** e estudo **Desenvolvimento Front-end**.  
@@ -67,7 +62,7 @@ Acredito que **criatividade + força de vontade transformam vidas — inclusive 
 **Projetos sociais que incentivem jovens a iniciarem na programação e na educação tecnológica.**
 
 ### 🤝 Em busca de apoio
-**Oportunidades para evoluir como desenvolvedora Front-end e ingressar no mercado de tecnologia.**
+**Oportunidades para evoluir como Desenvolvedora Front-end e ingressar no mercado de tecnologia.**
 
 ### 💬 Pergunte-me sobre
 **Front-end, minha jornada na tecnologia, projetos sociais e primeiros passos na programação.**
@@ -86,7 +81,7 @@ Acredito que **criatividade + força de vontade transformam vidas — inclusive 
 
 ## 🎨 Meus Projetos (pré-visualização)
 
-> *Blocos no tom #badaeb — basta substituir pelas imagens reais depois.*
+> *Blocos no tom #badaeb — substitua pelas imagens reais futuramente.*
 
 <p align="center">
 
@@ -131,6 +126,7 @@ Acredito que **criatividade + força de vontade transformam vidas — inclusive 
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
 </a>
 </p>
+
 
 
 
